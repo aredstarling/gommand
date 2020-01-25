@@ -3,7 +3,7 @@ package gommand
 import (
 	"sync"
 
-	"github.com/sellernomics/golog"
+	"gitlab.com/getlytica/golog"
 )
 
 // Application defines an interface to all applications.

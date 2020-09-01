@@ -8,10 +8,10 @@ A simple way to define multiple applications in the same command.
 package main
 
 import (
-    "gitlab.com/getlytica/golog"
-    "gitlab.com/getlytica/gommand"
-    "gitlab.com/getlytica/example/monitoring"
-    "gitlab.com/getlytica/example/research"
+    "gitlab.com/lyticaa-public/golog"
+    "gitlab.com/lyticaa-public/gommand"
+    "gitlab.com/lyticaa-public/example/monitoring"
+    "gitlab.com/lyticaa-public/example/research"
 )
 
 func main() {

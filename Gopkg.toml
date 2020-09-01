@@ -1,6 +1,6 @@
 [[constraint]]
   branch = "master"
-  name = "gitlab.com/getlytica/golog"
+  name = "gitlab.com/lyticaa-public/golog"
 
 [[constraint]]
   name = "github.com/onsi/ginkgo"

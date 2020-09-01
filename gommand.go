@@ -3,7 +3,7 @@ package gommand
 import (
 	"sync"
 
-	"gitlab.com/getlytica/golog"
+	"gitlab.com/lyticaa-public/golog"
 )
 
 // Application defines an interface to all applications.
